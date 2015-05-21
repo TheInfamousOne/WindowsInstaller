@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\WindowsInstaller\WindowsInstaller\bin\Debug\WindowsInstaller.exe.config
+D:\Visual Studio Projects\WindowsInstaller\WindowsInstaller\bin\Debug\WindowsInstaller.exe
+D:\Visual Studio Projects\WindowsInstaller\WindowsInstaller\bin\Debug\WindowsInstaller.pdb
+D:\Visual Studio Projects\WindowsInstaller\WindowsInstaller\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+D:\Visual Studio Projects\WindowsInstaller\WindowsInstaller\obj\Debug\WindowsInstaller.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\WindowsInstaller\WindowsInstaller\obj\Debug\WindowsInstaller.exe
+D:\Visual Studio Projects\WindowsInstaller\WindowsInstaller\obj\Debug\WindowsInstaller.pdb
