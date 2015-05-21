@@ -12,5 +12,11 @@ Please drop this in the root directory of ZapIt to work.
 (Both WindowsInstaller.exe and Microsoft.Deployment.WindowsInstaller.dll)
 
 
-Ty Stallard
+Ty Stallard |
+University of Michigan |
+MCIT-DES-EDEM |
+tyrones@med.umich.edu |
+tystallard@gmail.com |
+Published on GITHUB ON 05/21/2015 |
+Developed on 02/18/2015
 
